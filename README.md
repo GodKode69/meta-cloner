@@ -14,10 +14,8 @@ GodKode's Nebula AIO Tool is a terminal-based Discord management utility built u
 ## Features
 
 - **Interactive Terminal Interface:** Presents a command menu after logging in.
-- **Terminal Title:** The terminal is set to "GodKode's Nebula AIO Tool" upon startup.
-- **Non-Blocking Login:** The tool waits until the Discord client is fully logged in before accepting further keyboard input.
-- **Robust Backup File Naming:** Backup files are saved in a `backups` folder with sanitized file names that handle emojis and spaces.
-- **Command Loop:** After executing a command, you are prompted whether to execute another command or exit.
+- **Robust Backups** Backup files are saved in a `backups` folder with sanitized file names that handle emojis and spaces.
+- **Privacy Lookouts:** While logging in, your token will be hidden using a mask of `*#`
 
 ## Requirements
 
