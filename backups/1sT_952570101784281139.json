@@ -1,0 +1,389 @@
+{
+  "id": "952570101784281139",
+  "name": "1sT",
+  "icon": "https://cdn.discordapp.com/icons/952570101784281139/047d2065c48b283171908f5dc46217bb.png?size=1024",
+  "channels": [
+    {
+      "id": "1116946335468355634",
+      "name": "⸝⸝﹕Community",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1116953707540656129",
+      "name": "✦﹒VC ZONE",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 4,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1116954708884590674",
+      "name": "THANKS FOR VISITING",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 5,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1116956638935515197",
+      "name": "⸝⸝﹕Startup",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1116995670704930847",
+      "name": "﹕sign﹒in",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1141768709153759282",
+      "name": "Place to talk normally ig",
+      "type": "GUILD_VOICE",
+      "parentId": "1116953707540656129",
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1142114080736428042",
+      "name": "﹒﹒﹒﹒﹒﹒♡﹒﹒﹒﹒﹒﹒",
+      "type": "GUILD_VOICE",
+      "parentId": "1116954708884590674",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1204083195604111400",
+      "name": "﹕dicksclaimer",
+      "type": "GUILD_TEXT",
+      "parentId": "1116956638935515197",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1250708045982466123",
+      "name": "﹒Music Zone﹒",
+      "type": "GUILD_VOICE",
+      "parentId": "1116953707540656129",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1261717538119876608",
+      "name": "﹕media",
+      "type": "GUILD_TEXT",
+      "parentId": "1116946335468355634",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1268567958930722876",
+      "name": "hanime.tv",
+      "type": "GUILD_VOICE",
+      "parentId": "1116953707540656129",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1309898839578378270",
+      "name": "﹕lobby",
+      "type": "GUILD_TEXT",
+      "parentId": "1116946335468355634",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1329860870595149824",
+      "name": "﹕announcements",
+      "type": "GUILD_TEXT",
+      "parentId": "1346340628405162085",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1331515345588060190",
+      "name": "moderator-only",
+      "type": "GUILD_TEXT",
+      "parentId": "1116954708884590674",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1331850620612644966",
+      "name": "﹕premium",
+      "type": "GUILD_TEXT",
+      "parentId": "1346341138390585365",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1344886996815974422",
+      "name": "﹕status",
+      "type": "GUILD_TEXT",
+      "parentId": "1346340628405162085",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1346340628405162085",
+      "name": "⸝⸝﹕Important",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1346341138390585365",
+      "name": "⸝⸝﹕Premium",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 3,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1352304876830326865",
+      "name": "music-commands",
+      "type": "GUILD_TEXT",
+      "parentId": "1116953707540656129",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1352305033882112020",
+      "name": "﹕commands",
+      "type": "GUILD_TEXT",
+      "parentId": "1116946335468355634",
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    }
+  ],
+  "roles": [
+    {
+      "id": "1011279020895244299",
+      "name": "Boosters",
+      "color": "#e91e63",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1050425822252638282",
+      "name": "Fuego",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1074343726664658975",
+      "name": "1sT",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1107317576964526152",
+      "name": "Milky",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1116946312269676616",
+      "name": "Owner",
+      "color": "#4043f9",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1116946319974617148",
+      "name": "Guests",
+      "color": "#ffd200",
+      "hoist": true,
+      "permissions": "2199023255552",
+      "mentionable": false
+    },
+    {
+      "id": "1116973151419641866",
+      "name": "Admin",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1116976525301006346",
+      "name": "Our Creations",
+      "color": "#6cfbee",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1116978920701575238",
+      "name": "Developers/Coders",
+      "color": "#aeff00",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1116980792204197979",
+      "name": "Youtuber",
+      "color": "#ff5a00",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1117102782030286979",
+      "name": "Important peeps",
+      "color": "#032de8",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1141976831591977051",
+      "name": "Specials",
+      "color": "#64ff00",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1142457183087366204",
+      "name": "-------------------",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "140737488355328",
+      "mentionable": false
+    },
+    {
+      "id": "1144633050257436783",
+      "name": "Affiliate Bots",
+      "color": "#28ff95",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1162428910869422213",
+      "name": "Day One Ish",
+      "color": "#1c42ec",
+      "hoist": true,
+      "permissions": "31858024107585",
+      "mentionable": false
+    },
+    {
+      "id": "1162970176388612116",
+      "name": "Fam",
+      "color": "#0d0d0d",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1177350369190354995",
+      "name": "Pride",
+      "color": "#3498db",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1177478991934930974",
+      "name": "DM us to Chat",
+      "color": "#e91e63",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1185507269669040170",
+      "name": "Flare",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1185509167516102709",
+      "name": "M69",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1209142596534927360",
+      "name": "Top level await",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1213384991120031764",
+      "name": "Ambassador",
+      "color": "#3498db",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1257958655043833926",
+      "name": "Aura",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1331462113637695498",
+      "name": "Vote Reminder",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "1764166406766592",
+      "mentionable": false
+    },
+    {
+      "id": "1346334649429004329",
+      "name": "ticket-managers",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "1764585202847232",
+      "mentionable": true
+    }
+  ]
+}

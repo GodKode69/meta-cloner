@@ -1,0 +1,888 @@
+{
+  "id": "1190531731648938076",
+  "name": "Aankhein 🧋  ♡  •  Socialize  •  Hangout  •  Chill  •  Community  •  Events  •  Nitro",
+  "icon": "https://cdn.discordapp.com/icons/1190531731648938076/7477a5cbdaeb3a9115194ce2ca7dbb0e.png?size=1024",
+  "channels": [
+    {
+      "id": "1350378580357681282",
+      "name": "ticket-muskanbishnoiiii",
+      "type": "GUILD_TEXT",
+      "parentId": "1285116551200247849",
+      "position": 3,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905311705268274",
+      "name": "🧸﹒︵",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 4,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1243407977688334366",
+      "name": "﹒Kotha﹒",
+      "type": "GUILD_VOICE",
+      "parentId": "1207905310073688094",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905306039029800",
+      "name": "🎀﹒︵",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1243408042322563142",
+      "name": "﹒OYO﹒",
+      "type": "GUILD_VOICE",
+      "parentId": "1207905310073688094",
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905331502383114",
+      "name": "﹒chat",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905307833925653",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1280592359054250049",
+      "name": "﹒vote-logs",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905306039029800",
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1350379249151901696",
+      "name": "ticket-doremonfy",
+      "type": "GUILD_TEXT",
+      "parentId": "1285116551200247849",
+      "position": 4,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1347761827563704462",
+      "name": "ticket-reyly",
+      "type": "GUILD_TEXT",
+      "parentId": "1285116551200247849",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1243407575500849245",
+      "name": "﹒cmds",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905307833925653",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1281942526126981130",
+      "name": "⩇⩇﹒boostie﹐",
+      "type": "GUILD_TEXT",
+      "parentId": "1289414176665505832",
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1243408524365660211",
+      "name": "developers",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905313861148702",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1347644485282300045",
+      "name": "ticket-notamit",
+      "type": "GUILD_TEXT",
+      "parentId": "1285116551200247849",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905344744062987",
+      "name": "community-news",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905313861148702",
+      "position": 4,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1287050135012118568",
+      "name": "﹒policies",
+      "type": "GUILD_TEXT",
+      "parentId": "1289414176665505832",
+      "position": 3,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1346708136228290611",
+      "name": "﹒skidders",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905306039029800",
+      "position": 5,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905342395129918",
+      "name": "﹒staff-chat",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905311705268274",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905317254340708",
+      "name": "🥤﹒rules﹒★",
+      "type": "GUILD_TEXT",
+      "parentId": "1289414176665505832",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1287046802209771609",
+      "name": "﹒chatbot",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905307833925653",
+      "position": 5,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905351077330974",
+      "name": "error-logs",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905313861148702",
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1350367155379503147",
+      "name": "ticket-inarcotics",
+      "type": "GUILD_TEXT",
+      "parentId": "1285116551200247849",
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1289414176665505832",
+      "name": "🦋﹒︵",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1285118319183007806",
+      "name": "﹐tickets﹒⌯",
+      "type": "GUILD_TEXT",
+      "parentId": "1289414176665505832",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905340742443049",
+      "name": "﹒staff-annc",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905311705268274",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905349835825193",
+      "name": "join-logs",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905313861148702",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1277553303458152519",
+      "name": "﹒reports",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905307833925653",
+      "position": 4,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1351300586435252254",
+      "name": "hi",
+      "type": "GUILD_VOICE",
+      "parentId": "1207905310073688094",
+      "position": 3,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1285483946397798410",
+      "name": "﹒showcase",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905306039029800",
+      "position": 1,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1243408923533381652",
+      "name": "﹒Staff﹒Vc﹒",
+      "type": "GUILD_VOICE",
+      "parentId": "1207905311705268274",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1346482460967567443",
+      "name": "fabric-logs",
+      "type": "GUILD_TEXT",
+      "parentId": "1346482460061466675",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905313861148702",
+      "name": "Private",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 5,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1346572937771225089",
+      "name": "﹒uploads",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905306039029800",
+      "position": 4,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1346436437146472448",
+      "name": "﹒skidbot",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905306039029800",
+      "position": 3,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1347634656853491884",
+      "name": "debug-logs",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905313861148702",
+      "position": 5,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1285116551200247849",
+      "name": "🎈﹒︵",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 6,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905307833925653",
+      "name": "🍂﹒︵",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1349671361752072233",
+      "name": "˗ˏˋ／aankhein𓂃♡",
+      "type": "GUILD_TEXT",
+      "parentId": null,
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1233845601981042749",
+      "name": "premium-logs",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905313861148702",
+      "position": 3,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1243407625023127705",
+      "name": "﹒suggestions",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905307833925653",
+      "position": 3,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1350380774460751872",
+      "name": "〹﹒vouches﹒✉﹒▨",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905306039029800",
+      "position": 6,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905310073688094",
+      "name": "🧋﹒︵",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 3,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905321851420742",
+      "name": "﹒updates",
+      "type": "GUILD_NEWS",
+      "parentId": "1207905306039029800",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1346482460061466675",
+      "name": "Fabric Logs",
+      "type": "GUILD_CATEGORY",
+      "parentId": null,
+      "position": 7,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1243407541946290328",
+      "name": "﹒gallery﹒𓂃▞",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905307833925653",
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1351873191651315743",
+      "name": "╰♡﹒gifts﹒",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905306039029800",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1280607430354407636",
+      "name": "﹒staff-commands",
+      "type": "GUILD_TEXT",
+      "parentId": "1207905311705268274",
+      "position": 2,
+      "topic": "",
+      "nsfw": false
+    },
+    {
+      "id": "1207905324418338868",
+      "name": "﹒General﹒",
+      "type": "GUILD_VOICE",
+      "parentId": "1207905310073688094",
+      "position": 0,
+      "topic": "",
+      "nsfw": false
+    }
+  ],
+  "roles": [
+    {
+      "id": "1207905279220523009",
+      "name": "Election Participant",
+      "color": "#61bcff",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350107646602121278",
+      "name": "@／icon. 3  '",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1281942203295334514",
+      "name": "Royal Patron",
+      "color": "#e91e63",
+      "hoist": true,
+      "permissions": "392424786804800",
+      "mentionable": false
+    },
+    {
+      "id": "1207905276301418537",
+      "name": "• ⌘ Chief Commander ༻",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1207905271884685323",
+      "name": "• ✧ Arch Dutchess ♡ . ៹",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1207905270907281438",
+      "name": "• ✧ Arch Duke ♡ . ៹",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1207905280915144785",
+      "name": "Subject's Of Empress",
+      "color": "#1f8b4c",
+      "hoist": true,
+      "permissions": "4331736577",
+      "mentionable": false
+    },
+    {
+      "id": "1207905269871542302",
+      "name": "₊ Emperor ˚. ᵎᵎ",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1207975530318659625",
+      "name": "Acquaintance",
+      "color": "#e67e22",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350303373668253696",
+      "name": "nezi",
+      "color": "#930000",
+      "hoist": false,
+      "permissions": "2221563243921408",
+      "mentionable": false
+    },
+    {
+      "id": "1282638317112000516",
+      "name": "Vote Tracker",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "268561472",
+      "mentionable": false
+    },
+    {
+      "id": "1350760904786186306",
+      "name": "DISBOARD.org",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "19473",
+      "mentionable": false
+    },
+    {
+      "id": "1199346252366749858",
+      "name": "Projects",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1285104650797977643",
+      "name": "Giveaways",
+      "color": "#e74c3c",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1285118054178750539",
+      "name": "• ﹒ Land Lady ☆ . ᵎᵎ",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1243119237522788434",
+      "name": ".",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "2108863302074367",
+      "mentionable": false
+    },
+    {
+      "id": "1349752934711427112",
+      "name": "﹒ King ♡ . ៹",
+      "color": "#140f0f",
+      "hoist": true,
+      "permissions": "145135568420864",
+      "mentionable": false
+    },
+    {
+      "id": "1285568990667604071",
+      "name": "• ༺ Royal Knights ༻",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1349823358652387513",
+      "name": "Falcon™",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "268823806",
+      "mentionable": false
+    },
+    {
+      "id": "1207976264527511553",
+      "name": "• ﹒ Land Lord ☆ . ᵎᵎ",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1351266056273924167",
+      "name": "Image Perms",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "32768",
+      "mentionable": false
+    },
+    {
+      "id": "1307576035046588439",
+      "name": "Sage",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1304806608106160149",
+      "name": "gay",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350482380674306190",
+      "name": "black",
+      "color": "#0d0707",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1349017713602859070",
+      "name": "BlaZe",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "148377529575",
+      "mentionable": false
+    },
+    {
+      "id": "1346878339620671578",
+      "name": "• ─ • ─ Britannia Bastion ─ • ─ •",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1285100803740270699",
+      "name": "Fabric Helper",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1350482524153057340",
+      "name": "white",
+      "color": "#ffffff",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350482745809436722",
+      "name": "green",
+      "color": "#3ba800",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350743989627781180",
+      "name": "Dot.",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "291371818680458",
+      "mentionable": false
+    },
+    {
+      "id": "1285104641062731808",
+      "name": "Updates",
+      "color": "#e74c3c",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1316624436505612371",
+      "name": "Smooth",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "274910801265",
+      "mentionable": false
+    },
+    {
+      "id": "1349827222361341966",
+      "name": "OwO",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "277025754184",
+      "mentionable": false
+    },
+    {
+      "id": "1207905282533883914",
+      "name": "﹒ Queen ♡ . ៹",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350482912151212032",
+      "name": "yellow",
+      "color": "#d0ff00",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350107636699500606",
+      "name": "@／icon. 1  '",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1207975560194555915",
+      "name": "₊ Empress ˚. ᵎᵎ",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "8797300981760",
+      "mentionable": false
+    },
+    {
+      "id": "1350107645926838473",
+      "name": "@／icon. 2  '",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1207976234836033546",
+      "name": "• ﹒ Countess ☆ . ᵎᵎ",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1346457040188608575",
+      "name": "Smooth Canary",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "274910801265",
+      "mentionable": false
+    },
+    {
+      "id": "1350483001158402119",
+      "name": "cyan",
+      "color": "#00eeff",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1207976300082495570",
+      "name": "Benevolent Ally",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1346474445073678411",
+      "name": "Fuego",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1232866688446365768",
+      "name": "Raven",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1270618667721293897",
+      "name": "fabric beta",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350743672278483016",
+      "name": "Ext",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "35321811304448",
+      "mentionable": false
+    },
+    {
+      "id": "1349796056631869440",
+      "name": "• ─ Ministress ♡ . ៹",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1207976206415298560",
+      "name": "• ﹒ Count ☆ . ᵎᵎ",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1346570112119079030",
+      "name": "BITZXIER",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1285104649954791448",
+      "name": "Announcements",
+      "color": "#e74c3c",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1346457648752623689",
+      "name": "Neptune",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "id": "1350482136083337247",
+      "name": "blue",
+      "color": "#0008ff",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1304806061466980364",
+      "name": "pink",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350482628620455977",
+      "name": "pink",
+      "color": "#ad1457",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1350482271576260698",
+      "name": "red",
+      "color": "#992d22",
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "id": "1349753180124221481",
+      "name": "• ─ Minister ♡ . ៹",
+      "color": "#000000",
+      "hoist": true,
+      "permissions": "140737488355328",
+      "mentionable": false
+    },
+    {
+      "id": "1350159535536345101",
+      "name": "Nirvana",
+      "color": "#000000",
+      "hoist": false,
+      "permissions": "8",
+      "mentionable": false
+    }
+  ]
+}

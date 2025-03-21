@@ -1,0 +1,407 @@
+2025-03-22 02:27:02.228 [info] [main] Log level: Info
+2025-03-22 02:27:02.229 [info] [main] Validating found git in: "git"
+2025-03-22 02:27:02.347 [info] [main] Using git "2.43.0" from "git"
+2025-03-22 02:27:02.347 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-22 02:27:02.419 [info] > git rev-parse --show-toplevel [32ms]
+2025-03-22 02:27:02.419 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:27:02.630 [info] > git rev-parse --show-toplevel [10ms]
+2025-03-22 02:27:02.630 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:27:02.651 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 02:27:02.651 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:27:02.661 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (1)
+2025-03-22 02:27:02.673 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 02:27:02.673 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:27:07.008 [info] > git rev-parse --show-toplevel [10ms]
+2025-03-22 02:27:07.008 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:28:11.519 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 02:28:11.519 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:28:17.692 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 02:28:17.692 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:32:35.920 [info] > git rev-parse --show-toplevel [11ms]
+2025-03-22 02:32:35.920 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:32:46.466 [info] > git rev-parse --show-toplevel [9ms]
+2025-03-22 02:32:46.466 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:35:25.934 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 02:35:25.934 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:35:44.487 [info] > git rev-parse --show-toplevel [7ms]
+2025-03-22 02:35:44.487 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:37:30.631 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 02:37:30.631 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:42:46.092 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-22 02:42:46.092 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:47:20.653 [info] > git rev-parse --show-toplevel [8ms]
+2025-03-22 02:47:20.653 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 02:58:33.483 [info] > git rev-parse --show-toplevel [21ms]
+2025-03-22 02:58:33.483 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:11:24.262 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 03:11:24.263 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:11:38.513 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 03:11:38.513 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:12:49.804 [info] > git rev-parse --show-toplevel [10ms]
+2025-03-22 03:12:49.804 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:13:14.707 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-22 03:13:14.707 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:16:06.041 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-22 03:16:06.041 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:16:19.770 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 03:16:19.770 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:16:26.902 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 03:16:26.902 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:18:35.899 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-22 03:18:35.899 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:19:00.418 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 03:19:00.418 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:22:44.388 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 03:22:44.388 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:23:00.639 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 03:23:00.640 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:25:28.041 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 03:25:28.062 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:26:38.740 [info] > git rev-parse --show-toplevel [18ms]
+2025-03-22 03:26:38.740 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:29:05.592 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-22 03:29:05.592 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:30:59.619 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 03:30:59.640 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:32:45.569 [info] > git rev-parse --show-toplevel [22ms]
+2025-03-22 03:32:45.569 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:39:02.451 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 03:39:02.452 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:40:53.949 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-22 03:40:53.949 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:40:55.360 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 03:40:55.360 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:40:57.036 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 03:40:57.036 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:40:58.577 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-22 03:40:58.577 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:41:01.450 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 03:41:01.451 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:41:02.490 [info] > git rev-parse --show-toplevel [7ms]
+2025-03-22 03:41:02.490 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:41:03.787 [info] > git rev-parse --show-toplevel [8ms]
+2025-03-22 03:41:03.787 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:41:16.229 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 03:41:16.229 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:42:15.526 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 03:42:15.526 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:47:37.277 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 03:47:37.278 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:47:54.341 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 03:47:54.341 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:52:16.940 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 03:52:16.941 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:52:18.083 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-22 03:52:18.083 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:57:31.976 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 03:57:31.976 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:57:41.387 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 03:57:41.387 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 03:58:24.707 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 03:58:24.707 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:00:26.226 [info] > git rev-parse --show-toplevel [22ms]
+2025-03-22 04:00:26.226 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:00:41.846 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-22 04:00:41.846 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:02:15.927 [info] > git rev-parse --show-toplevel [8ms]
+2025-03-22 04:02:15.927 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:02:37.652 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 04:02:37.652 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:03:30.384 [info] > git rev-parse --show-toplevel [8ms]
+2025-03-22 04:03:30.384 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:09:17.327 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-22 04:09:17.327 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:14:38.079 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 04:14:38.079 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:18:21.371 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 04:18:21.371 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:22:04.447 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 04:22:04.447 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:22:26.142 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-22 04:22:26.142 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:24:09.397 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 04:24:09.397 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:26:01.790 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 04:26:01.791 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:26:23.389 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 04:26:23.389 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:29:00.629 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 04:29:00.629 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:29:12.775 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-22 04:29:12.775 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:29:13.169 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 04:29:13.169 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:29:22.927 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-22 04:29:22.927 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:29:23.480 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-22 04:29:23.480 [info] fatal: detected dubious ownership in repository at '/home/raghav/Desktop/MetaShard/meta-cloner'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:29:50.271 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-22 04:29:50.282 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-03-22 04:29:50.317 [info] [Model][openRepository] Opened repository: /home/raghav/Desktop/MetaShard/meta-cloner
+2025-03-22 04:29:50.338 [info] > git config --get commit.template [5ms]
+2025-03-22 04:29:50.488 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [139ms]
+2025-03-22 04:29:50.498 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raghav/Desktop/MetaShard/meta-cloner/.git/refs/remotes/origin/main'
+2025-03-22 04:29:50.500 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-22 04:29:50.526 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-22 04:29:50.542 [info] > git status -z -uall [33ms]
+2025-03-22 04:29:51.766 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [994ms]
+2025-03-22 04:29:51.847 [info] > git check-ignore -v -z --stdin [39ms]
+2025-03-22 04:29:51.851 [info] > git config --get --local branch.main.vscode-merge-base [70ms]
+2025-03-22 04:29:51.868 [info] > git config --get commit.template [103ms]
+2025-03-22 04:29:51.872 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2025-03-22 04:29:51.927 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2025-03-22 04:29:51.946 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raghav/Desktop/MetaShard/meta-cloner/.git/refs/remotes/origin/main'
+2025-03-22 04:29:51.948 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-22 04:29:51.990 [info] > git merge-base refs/heads/main refs/remotes/origin/main [90ms]
+2025-03-22 04:29:52.023 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [35ms]
+2025-03-22 04:29:52.035 [info] > git status -z -uall [70ms]
+2025-03-22 04:29:52.198 [info] > git merge-base refs/heads/main refs/remotes/origin/main [35ms]
+2025-03-22 04:29:52.207 [info] > git diff --name-status -z --diff-filter=ADMR 37649d7175f112b47e74ef8280ca9aba7a4eaa6d...refs/remotes/origin/main [193ms]
+2025-03-22 04:29:53.190 [info] > git diff --name-status -z --diff-filter=ADMR 37649d7175f112b47e74ef8280ca9aba7a4eaa6d...refs/remotes/origin/main [984ms]
+2025-03-22 04:29:59.836 [info] > git config --get commit.template [17ms]
+2025-03-22 04:29:59.838 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-22 04:29:59.846 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raghav/Desktop/MetaShard/meta-cloner/.git/refs/remotes/origin/main'
+2025-03-22 04:29:59.849 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-03-22 04:29:59.874 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-22 04:29:59.900 [info] > git status -z -uall [43ms]
+2025-03-22 04:30:01.385 [info] > git show --textconv :.gitignore [38ms]
+2025-03-22 04:30:01.386 [info] > git show --textconv HEAD:.gitignore [29ms]
+2025-03-22 04:30:01.386 [info] > git ls-files --stage -- .gitignore [14ms]
+2025-03-22 04:30:01.421 [info] > git hash-object -t tree /dev/null [5ms]
+2025-03-22 04:30:01.421 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/raghav/Desktop/MetaShard/meta-cloner/.gitignore.git?%7B%22path%22%3A%22%2Fhome%2Fraghav%2FDesktop%2FMetaShard%2Fmeta-cloner%2F.gitignore%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-22 04:30:01.425 [info] > git cat-file -s 5291ced72843b699c3e8d74cb8ae9945de04d884 [26ms]
+2025-03-22 04:30:01.426 [info] > git ls-tree -l HEAD -- .gitignore [42ms]
+2025-03-22 04:30:01.427 [warning] [GitFileSystemProvider][stat] File not found - git:/home/raghav/Desktop/MetaShard/meta-cloner/.gitignore.git?%7B%22path%22%3A%22%2Fhome%2Fraghav%2FDesktop%2FMetaShard%2Fmeta-cloner%2F.gitignore%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-03-22 04:30:01.485 [info] > git blame --root --incremental 37649d7175f112b47e74ef8280ca9aba7a4eaa6d -- .gitignore [3ms]
+2025-03-22 04:30:01.485 [info] fatal: no such path .gitignore in 37649d7175f112b47e74ef8280ca9aba7a4eaa6d
+2025-03-22 04:30:02.022 [info] > git config --get commit.template [11ms]
+2025-03-22 04:30:02.024 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-22 04:30:02.032 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raghav/Desktop/MetaShard/meta-cloner/.git/refs/remotes/origin/main'
+2025-03-22 04:30:02.034 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-22 04:30:02.059 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-22 04:30:02.084 [info] > git status -z -uall [42ms]
+2025-03-22 04:30:23.613 [info] > git ls-files --stage -- .gitignore [4ms]
+2025-03-22 04:30:23.623 [info] > git cat-file -s 5291ced72843b699c3e8d74cb8ae9945de04d884 [2ms]
+2025-03-22 04:30:23.637 [info] > git show --textconv :.gitignore [4ms]
+2025-03-22 04:30:23.905 [info] > git config --get commit.template [12ms]
+2025-03-22 04:30:23.906 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-22 04:30:23.917 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raghav/Desktop/MetaShard/meta-cloner/.git/refs/remotes/origin/main'
+2025-03-22 04:30:23.919 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-22 04:30:23.949 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-22 04:30:23.974 [info] > git status -z -uall [45ms]
+2025-03-22 04:30:33.082 [info] > git config --get commit.template [12ms]
+2025-03-22 04:30:33.083 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-22 04:30:33.091 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raghav/Desktop/MetaShard/meta-cloner/.git/refs/remotes/origin/main'
+2025-03-22 04:30:33.093 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-22 04:30:33.116 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-22 04:30:33.139 [info] > git status -z -uall [39ms]
+2025-03-22 04:30:41.668 [info] > git config --get commit.template [10ms]
+2025-03-22 04:30:41.669 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-22 04:30:41.678 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raghav/Desktop/MetaShard/meta-cloner/.git/refs/remotes/origin/main'
+2025-03-22 04:30:41.680 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-22 04:30:41.707 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-22 04:30:41.728 [info] > git status -z -uall [38ms]
+2025-03-22 04:30:52.052 [info] > git config --get commit.template [12ms]
+2025-03-22 04:30:52.053 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-22 04:30:52.064 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raghav/Desktop/MetaShard/meta-cloner/.git/refs/remotes/origin/main'
+2025-03-22 04:30:52.066 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-22 04:30:52.091 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-22 04:30:52.113 [info] > git status -z -uall [39ms]
