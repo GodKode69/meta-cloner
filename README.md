@@ -60,29 +60,35 @@ npm install
 
 You can run the tool directly using Node.js:
 
-`bash node index.mjs `
+```bash 
+node index.mjs 
+```
 
 Or use the provided launcher scripts:
 
 Linux:
-`bash ./start.sh ` _(Ensure the script is executable: `chmod +x start.sh`)_
+```bash 
+./start.sh 
+```
+ _(Ensure the script is executable: `chmod +x start.sh`)_
 
 Windows:
-Double-click `start.bat` or run it from Command Prompt.
+> Double-click `start.bat` or run it from Command Prompt.
 
 ### How It Works
 
-Token Prompt:
-Your token is requested securely using a masked input field. The tool will wait until the client is fully logged in before accepting further commands.
+1. **Token Prompt:**
+    Your token is requested securely using a masked input field. The tool will wait until the client is fully logged in before accepting further commands.
 
-Command Menu:
-Once logged in, you'll be presented with a command menu where you can choose to:
+2. **Command Menu:**
+    Once logged in, you'll be presented with a command menu where you can choose to:
 
-Clone Server: Duplicate a server’s configuration to another.
-Backup Server: Save a backup of your server's settings in a clean, safe filename.
-Restore Backup: Restore a previously saved backup by selecting from a list.
-Dynamic Operations:
+    Clone Server: Duplicate a server’s configuration to another.
+    Backup Server: Save a backup of your server's settings in a clean, safe filename.
+    Restore Backup: Restore a previously saved backup by selecting from a list.
 
-Cloning: Duplicate your server configuration in real-time.
-Backup: Save a complete server backup with robust, sanitized file naming.
-Restore: Easily restore a backup by selecting it from a menu that automatically extracts the server ID for restoratio
+3. **Dynamic Operations:**
+
+    Cloning: Duplicate your server configuration in real-time.
+    Backup: Save a complete server backup with robust, sanitized file naming.
+    Restore: Easily restore a backup by selecting it from a menu that automatically extracts the server ID for restoratio
